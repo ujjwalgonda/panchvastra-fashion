@@ -19,7 +19,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731405546/categorys/mds7yim7avw7mumxyzus.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>KURTA SETS</h3>
           </div>
           </Link>
