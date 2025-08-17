@@ -19,7 +19,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731405546/categorys/mds7yim7avw7mumxyzus.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>KURTA SETS</h3>
           </div>
           </Link>
@@ -37,7 +37,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731409128/categorys/kwouvbzqbrjw0iufas9y.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>JODHPURI</h3>
           </div>
           </Link>
@@ -55,7 +55,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731407413/categorys/tiveszaw0eyopjia2upx.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>SAREES</h3>
           </div>
           </Link>
@@ -73,7 +73,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731408335/categorys/cbfmw0j5zwo3apfm3ggq.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>PUNJABI SUIT</h3>
           </div>
           </Link>
@@ -91,7 +91,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731406845/categorys/mzeas5pxciuukcbhbchq.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>WEDDING</h3>
           </div>
           </Link>
@@ -109,7 +109,7 @@ const HomeCatSlider = () => {
         <SwiperSlide>
           <Link to='/'>
           <div className='item p-3 bg-transparent rounded-sm text-center'>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mrXaOW0xFSXIZAwX3L-CwXk-590YwUr7OBeTyQmngIZyf9rMz4G6ypDBKjasT-PfDbiFItzwpzIFA4A2X8R2aVqXLmciXBGxHNMJXC5xKRUwx8rTZLQ-73SwSQTOYjX8Ro5gcOq7HFxIVYoMxspFzQDyeTSVebgI5ip2R1wMnRt6UJhlTNtDcGWyEGY/s2256/1000169718.png" className='w-full rounded-full border-[3px] transition-all'/>
+            <img src="http://res.cloudinary.com/dgzxuvglc/image/upload/v1731407413/categorys/tiveszaw0eyopjia2upx.png" className='w-full rounded-full border-[3px] transition-all'/>
             <h3 className='text-[12px] mt-5'>BOYS</h3>
           </div>
           </Link>
